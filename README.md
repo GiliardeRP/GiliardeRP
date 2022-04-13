@@ -37,4 +37,4 @@
   <!--https://devicon.dev/ -->
   
   
-    ![ Animação de cobra ](https://github.com/GiliardeRP/GiliardeRP/blob/output/github-contribution-grid-snake.svg)
+    ![snake gif](https://github.com/GiliardeRP/GiliardeRP/blob/output/github-contribution-grid-snake.svg)
