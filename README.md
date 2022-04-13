@@ -22,6 +22,7 @@
   <img align="center" alt="GRP-postgress" height="90" width="120" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg">
   <img align="center" alt="GRP_linux" height="90" width="120" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg">
 
+  
 </div><br>
 
 <div align="center">
@@ -36,5 +37,9 @@
 </div>
   <!--https://devicon.dev/ -->
   
+   <div style="display: inline_block"><br>
+
   
     ![snake gif](https://github.com/GiliardeRP/GiliardeRP/blob/output/github-contribution-grid-snake.svg)
+     
+  </div>
