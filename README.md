@@ -11,7 +11,22 @@
  
  
 </div><br>
-<h2>Conhecimentos:</><br>
+
+
+
+<div >
+  <a href="https://github.com/GiliardeRP">
+  <img align="center" height="200em"  src="https://github-readme-stats.vercel.app/api?username=GiliardeRP&show_icons=true&theme=blue-green&include_all_commits=true&count_private=true"/>
+  <img align="center" height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GiliardeRP&layout=compact&langs_count=7&theme=blue-green"/>
+</div>
+  
+  <div style="display: inline_block"><br>
+
+  <img align="center" alt="GRP-Sukuna" height="150" style="border-radius:50px;" src="https://i.pinimg.com/originals/27/9c/76/279c7613cda2f16a431a028914fc0511.gif">
+</div>
+  <!--https://devicon.dev/ -->
+  
+  <h2>Conhecimentos:</><br>
  <div style="display: inline_block"><br>
   
   <img align="center" alt="GRP-html" height="90" width="120" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg">
@@ -22,24 +37,8 @@
   <img align="center" alt="GRP-postgress" height="90" width="120" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg">
   <img align="center" alt="GRP_linux" height="90" width="120" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg">
 
+  ![snake gif](https://github.com/GiliardeRP/GiliardeRP/blob/output/github-contribution-grid-snake.svg)
   
 </div><br>
-
-<div align="center">
-  <a href="https://github.com/GiliardeRP">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GiliardeRP&show_icons=true&theme=blue-green&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GiliardeRP&layout=compact&langs_count=7&theme=blue-green"/>
-</div>
+   
   
-  <div style="display: inline_block"><br>
-
-  <img align="center" alt="GRP-Sukuna" height="150" style="border-radius:50px;" src="https://i.pinimg.com/originals/27/9c/76/279c7613cda2f16a431a028914fc0511.gif">
-</div>
-  <!--https://devicon.dev/ -->
-  
-   <div style="display: inline_block"><br>
-
-  
-    ![snake gif](https://github.com/GiliardeRP/GiliardeRP/blob/output/github-contribution-grid-snake.svg)
-     
-  </div>
