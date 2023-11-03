@@ -5,7 +5,7 @@
 <div><br>
   <h2>Contato:</> <br>
     <a href="https://wa.me/5577999356620" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a><br>
-  <a href="https://www.instagram.com/kings_pereira/?hl=pt-br" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the- badge&logo=instagram&logoColor=white" target="_blank"></a><br>
+  <a href="https://www.instagram.com/_king_pereira_/?hl=pt-br" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the- badge&logo=instagram&logoColor=white" target="_blank"></a><br>
   <a href = "mailto:g1l14rd3@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" destino ="_blank"></a><br>
   <a href="https://www.linkedin.com/in/giliarde-reis-pereira-a528a1235/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a><br>
  <h2>Curriculo Lattes:</>  <a href="http://lattes.cnpq.br/4030315675707482"> <img src="https://img.shields.io/website-up-down-green-red/http/monip.org.svg" target= "_blanck"></a> 
