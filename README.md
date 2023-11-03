@@ -1,7 +1,7 @@
 # Bem vindo ao meu Git.<br>ATT Giliarde. 
 
-- 🌱   Atualmente Cursando Análise e Desenvolvimento de Sistemas        
-- ⚡ Fun fact: Pró-eficiencia em Desenvolvimento!
+- 👨‍🎓 Graduado em Análise e Desenvolvimento de Sistemas        
+- ⚡  Fun fact: Pró-eficiencia em Desenvolvimento!
 <div><br>
   <h2>Contato:</> <br>
     <a href="https://wa.me/5577999356620" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a><br>
@@ -29,15 +29,18 @@
   
   <h2>Conhecimentos:</><br>
  <div style="display: inline_block"><br>
-  
+
+  <img align="center" alt="GRP_laravel" height="90" width="120" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain-wordmark.svg" />
+  <img align="center" alt="GRP-php" height="90" width="120" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg">
+  <img align="center" alt="GRP-java" height="90" width="120" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg">
+  <img align="center" alt="GRP-python" height="90" width="120" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
   <img align="center" alt="GRP-html" height="90" width="120" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg">
   <img align="center" alt="GRP-css" height="90" width="120" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg">
-  <img align="center" alt="GRP-php" height="90" width="120" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg">
   <img align="center" alt="GRP-c" height="90" width="120" src="http://www.aptechsp.com.br/wp-content/uploads/2015/04/linguagem-C.png">
-  <img align="center" alt="GRP-java" height="90" width="120" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg">
   <img align="center" alt="GRP-postgress" height="90" width="120" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg">
   <img align="center" alt="GRP_linux" height="90" width="120" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg">
-
+  
+          
   ![snake gif](https://github.com/GiliardeRP/GiliardeRP/blob/output/github-contribution-grid-snake.svg)
   
 </div><br>
