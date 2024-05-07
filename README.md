@@ -36,11 +36,12 @@
   <img align="center" alt="GRP-python" height="90" width="120" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
   <img align="center" alt="GRP-javascript" height="90" width="120" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
   <img align="center" alt="GRP-react-native" height="90" width="120" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
-  <img align="center" alt="GRP-html" height="90" width="120" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg">
-  <img align="center" alt="GRP-css" height="90" width="120" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg">
   <img align="center" alt="GRP-c" height="90" width="120" src="http://www.aptechsp.com.br/wp-content/uploads/2015/04/linguagem-C.png">
   <img align="center" alt="GRP-postgress" height="90" width="120" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg">
   <img align="center" alt="GRP_linux" height="90" width="120" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg">
+  <img align="center" alt="GRP_bootstrap" height="90" width="120" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original-wordmark.svg" />
+  <img align="center" alt="GRP-html" height="90" width="120" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg">
+  <img align="center" alt="GRP-css" height="90" width="120" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg">
   
   
   <!--![snake gif](https://github.com/GiliardeRP/GiliardeRP/blob/output/github-contribution-grid-snake.svg)-->
