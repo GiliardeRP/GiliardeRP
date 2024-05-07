@@ -30,7 +30,7 @@
   <h2>Conhecimentos:</><br>
  <div style="display: inline_block"><br>
 
-  <img align="center" alt="GRP_laravel" height="90" width="120" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain-wordmark.svg" />
+  <img align="center" alt="GRP-laravel" height="90" width="120" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original-wordmark.svg" />
   <img align="center" alt="GRP-php" height="90" width="120" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg">
   <img align="center" alt="GRP-java" height="90" width="120" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg">
   <img align="center" alt="GRP-python" height="90" width="120" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
